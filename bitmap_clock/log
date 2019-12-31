@@ -1,0 +1,2000 @@
+673 681 2000
+average relative error: 0.0118871
+1420 1436 4000
+average relative error: 0.0115773
+1973 1987 6000
+average relative error: 0.0100835
+2742 2734 8000
+average relative error: 0.00829201
+3238 3230 10000
+average relative error: 0.00712774
+3622 3618 12000
+average relative error: 0.00612385
+4136 4138 14000
+average relative error: 0.00531809
+4425 4434 16000
+average relative error: 0.00490757
+4690 4705 18000
+average relative error: 0.00471765
+5096 5108 3.76967e-08
+average relative error: 0.00448136
+5210 5659 2000
+average relative error: 0.0119085
+5195 6119 4000
+average relative error: 0.0257381
+5288 6567 6000
+average relative error: 0.0423635
+4987 6806 8000
+average relative error: 0.065391
+4963 6972 10000
+average relative error: 0.088018
+5144 7216 12000
+average relative error: 0.107692
+4813 7019 14000
+average relative error: 0.128318
+4558 6738 16000
+average relative error: 0.147761
+4720 6766 18000
+average relative error: 0.162798
+4811 6780 7.53935e-08
+average relative error: 0.175122
+4552 6657 2000
+average relative error: 0.188803
+4542 6661 4000
+average relative error: 0.201427
+3883 6189 6000
+average relative error: 0.21849
+3935 6208 8000
+average relative error: 0.233455
+3653 5922 10000
+average relative error: 0.248962
+3452 5848 12000
+average relative error: 0.266082
+3903 5985 14000
+average relative error: 0.275984
+4008 5738 16000
+average relative error: 0.281543
+3783 5533 18000
+average relative error: 0.287786
+3645 5491 1.1309e-07
+average relative error: 0.295075
+3704 5508 2000
+average relative error: 0.301267
+4103 5894 4000
+average relative error: 0.305494
+4502 5966 6000
+average relative error: 0.306091
+4032 5627 8000
+average relative error: 0.308723
+4556 5918 10000
+average relative error: 0.308444
+4715 6216 12000
+average relative error: 0.308719
+4422 6213 14000
+average relative error: 0.311321
+4584 6205 16000
+average relative error: 0.312434
+4712 6175 18000
+average relative error: 0.312384
+4579 6111 1.50787e-07
+average relative error: 0.312939
+4655 6171 2000
+average relative error: 0.31325
+4347 6331 4000
+average relative error: 0.316658
+4307 6357 6000
+average relative error: 0.320363
+4546 6236 8000
+average relative error: 0.321531
+4165 6114 10000
+average relative error: 0.324785
+4186 6303 12000
+average relative error: 0.328718
+4212 6243 14000
+average relative error: 0.331984
+4307 6262 16000
+average relative error: 0.334524
+4479 6350 18000
+average relative error: 0.336222
+4640 6305 1.88484e-07
+average relative error: 0.336674
+4800 6531 2000
+average relative error: 0.337144
+4777 6588 4000
+average relative error: 0.337951
+4766 6646 6000
+average relative error: 0.339017
+4860 6621 8000
+average relative error: 0.339449
+5036 6666 10000
+average relative error: 0.339162
+4884 6719 12000
+average relative error: 0.339815
+4914 6741 14000
+average relative error: 0.340376
+4890 6673 16000
+average relative error: 0.340794
+4944 6876 18000
+average relative error: 0.341641
+5105 7040 2.2618e-07
+average relative error: 0.342265
+5087 7207 2000
+average relative error: 0.343486
+4914 7133 4000
+average relative error: 0.345229
+4729 6938 6000
+average relative error: 0.347164
+4953 7070 8000
+average relative error: 0.348418
+5024 7097 10000
+average relative error: 0.349405
+5022 7089 12000
+average relative error: 0.350348
+5106 7154 14000
+average relative error: 0.351105
+5417 7322 16000
+average relative error: 0.351113
+5442 7434 18000
+average relative error: 0.35133
+5424 7506 2.63877e-07
+average relative error: 0.351794
+5277 7522 2000
+average relative error: 0.352831
+5501 7606 4000
+average relative error: 0.353246
+5810 7739 6000
+average relative error: 0.352955
+5662 7676 8000
+average relative error: 0.352992
+5202 7281 10000
+average relative error: 0.353614
+4978 7077 12000
+average relative error: 0.354509
+5073 7269 14000
+average relative error: 0.355527
+4816 7203 16000
+average relative error: 0.357323
+4339 6827 18000
+average relative error: 0.360059
+4179 6715 3.01574e-07
+average relative error: 0.363143
+4233 6719 2000
+average relative error: 0.365911
+4134 6597 4000
+average relative error: 0.368714
+3781 6327 6000
+average relative error: 0.372385
+4036 6448 8000
+average relative error: 0.375066
+4532 6455 10000
+average relative error: 0.375645
+4861 6563 12000
+average relative error: 0.375349
+4820 6677 14000
+average relative error: 0.375463
+4758 6610 16000
+average relative error: 0.375619
+5024 6586 18000
+average relative error: 0.374892
+4893 6502 3.39271e-07
+average relative error: 0.374381
+4743 6452 2000
+average relative error: 0.374226
+4965 6684 4000
+average relative error: 0.373922
+5319 6955 6000
+average relative error: 0.373208
+5032 6937 8000
+average relative error: 0.373265
+4887 6928 10000
+average relative error: 0.373733
+4863 7008 12000
+average relative error: 0.374434
+4627 6856 14000
+average relative error: 0.37554
+4926 7059 16000
+average relative error: 0.376127
+5239 7330 18000
+average relative error: 0.376359
+5544 7414 3.76967e-07
+average relative error: 0.375968
+5946 7714 2000
+average relative error: 0.37519
+5769 7726 4000
+average relative error: 0.374837
+5280 7443 6000
+average relative error: 0.375175
+5051 7139 8000
+average relative error: 0.375543
+5177 7179 10000
+average relative error: 0.375649
+5123 7259 12000
+average relative error: 0.376039
+5367 7387 14000
+average relative error: 0.376042
+5321 7546 16000
+average relative error: 0.376432
+5319 7716 18000
+average relative error: 0.377113
+5141 7574 4.14664e-07
+average relative error: 0.377987
+4627 7292 2000
+average relative error: 0.37977
+4380 6988 4000
+average relative error: 0.381696
+4556 6755 6000
+average relative error: 0.382589
+4739 6611 8000
+average relative error: 0.382698
+4620 6493 10000
+average relative error: 0.382896
+4393 6361 12000
+average relative error: 0.383457
+4134 6157 14000
+average relative error: 0.384362
+3990 6153 16000
+average relative error: 0.385699
+3580 5950 18000
+average relative error: 0.388021
+3600 5875 4.52361e-07
+average relative error: 0.390054
+3567 5713 2000
+average relative error: 0.391802
+3725 5653 4000
+average relative error: 0.392833
+3877 5746 6000
+average relative error: 0.393559
+3938 5770 8000
+average relative error: 0.394137
+4014 5725 10000
+average relative error: 0.394394
+4036 5665 12000
+average relative error: 0.394467
+4100 5612 14000
+average relative error: 0.394264
+4103 5668 16000
+average relative error: 0.394164
+4212 5765 18000
+average relative error: 0.393967
+4229 5827 4.90058e-07
+average relative error: 0.393843
+4362 5847 2000
+average relative error: 0.393435
+4345 5861 4000
+average relative error: 0.393098
+4261 5847 6000
+average relative error: 0.392941
+4254 5962 8000
+average relative error: 0.393005
+4438 6198 10000
+average relative error: 0.393031
+4473 6261 12000
+average relative error: 0.393081
+4421 6190 14000
+average relative error: 0.393132
+4452 6247 16000
+average relative error: 0.393205
+4415 6312 18000
+average relative error: 0.393467
+4473 6331 5.27754e-07
+average relative error: 0.393624
+4408 6234 2000
+average relative error: 0.39377
+4419 6224 4000
+average relative error: 0.393874
+4442 6194 6000
+average relative error: 0.393877
+4153 6034 8000
+average relative error: 0.394287
+3812 5871 10000
+average relative error: 0.395293
+3805 5879 12000
+average relative error: 0.396319
+3984 5921 14000
+average relative error: 0.396931
+4049 6047 16000
+average relative error: 0.397583
+4136 6042 18000
+average relative error: 0.398007
+3967 5911 5.65451e-07
+average relative error: 0.398621
+4006 5869 2000
+average relative error: 0.399061
+4163 5955 4000
+average relative error: 0.399267
+4234 5921 6000
+average relative error: 0.399262
+4431 5938 8000
+average relative error: 0.398878
+4796 6190 10000
+average relative error: 0.39818
+4899 6383 12000
+average relative error: 0.397569
+4867 6388 14000
+average relative error: 0.397027
+4831 6543 16000
+average relative error: 0.396757
+4965 6813 18000
+average relative error: 0.396603
+5094 6848 6.03148e-07
+average relative error: 0.396276
+5386 7189 2000
+average relative error: 0.395894
+5443 7338 4000
+average relative error: 0.395599
+5413 7285 6000
+average relative error: 0.395294
+5174 7026 8000
+average relative error: 0.395066
+4719 6715 10000
+average relative error: 0.395235
+4257 6329 12000
+average relative error: 0.395787
+4090 6111 14000
+average relative error: 0.396375
+3911 5969 16000
+average relative error: 0.397148
+3667 5927 18000
+average relative error: 0.398445
+3719 5861 6.40845e-07
+average relative error: 0.399489
+3331 5717 2000
+average relative error: 0.401342
+3392 5840 4000
+average relative error: 0.403205
+3786 6054 6000
+average relative error: 0.404337
+4188 6180 8000
+average relative error: 0.404746
+4485 6210 10000
+average relative error: 0.404631
+4762 6149 12000
+average relative error: 0.403987
+4950 6246 14000
+average relative error: 0.403184
+5172 6412 16000
+average relative error: 0.402266
+5018 6328 18000
+average relative error: 0.401477
+4901 6257 6.78541e-07
+average relative error: 0.400784
+4693 6062 2000
+average relative error: 0.400181
+4170 5867 4000
+average relative error: 0.400218
+3654 5673 6000
+average relative error: 0.401051
+3092 5386 8000
+average relative error: 0.402903
+2660 5066 10000
+average relative error: 0.405615
+2476 4738 12000
+average relative error: 0.408346
+2104 4417 14000
+average relative error: 0.412041
+1583 4022 16000
+average relative error: 0.418044
+1420 3703 18000
+average relative error: 0.424339
+1261 3288 7.16238e-07
+average relative error: 0.430566
+1267 3008 2000
+average relative error: 0.435506
+1247 2694 4000
+average relative error: 0.439281
+1246 2456 6000
+average relative error: 0.442037
+1252 2236 8000
+average relative error: 0.44381
+1270 2092 10000
+average relative error: 0.444853
+1243 1911 12000
+average relative error: 0.445325
+1295 1830 14000
+average relative error: 0.445162
+1522 1940 16000
+average relative error: 0.444301
+1755 2189 18000
+average relative error: 0.443311
+1804 2219 7.53935e-07
+average relative error: 0.442244
+1749 2175 2000
+average relative error: 0.441256
+2180 2568 4000
+average relative error: 0.439952
+2283 2702 6000
+average relative error: 0.438689
+2262 2685 8000
+average relative error: 0.437456
+2718 3113 10000
+average relative error: 0.436031
+3182 3586 12000
+average relative error: 0.43453
+3340 3738 14000
+average relative error: 0.433007
+3431 3965 16000
+average relative error: 0.431673
+3363 4167 18000
+average relative error: 0.430752
+3617 4435 7.91631e-07
+average relative error: 0.429777
+4178 4920 2000
+average relative error: 0.428582
+4150 5215 4000
+average relative error: 0.427771
+3954 5060 6000
+average relative error: 0.427076
+4258 5249 8000
+average relative error: 0.426168
+4425 5746 10000
+average relative error: 0.425574
+4018 5683 12000
+average relative error: 0.425522
+3920 5529 14000
+average relative error: 0.425453
+4152 5741 16000
+average relative error: 0.425257
+4154 5730 18000
+average relative error: 0.425048
+4129 5754 8.29328e-07
+average relative error: 0.424904
+4117 6046 2000
+average relative error: 0.425102
+4318 6324 4000
+average relative error: 0.42528
+4714 6379 6000
+average relative error: 0.424956
+4651 6312 8000
+average relative error: 0.424654
+4393 6331 10000
+average relative error: 0.424727
+4608 6468 12000
+average relative error: 0.424634
+4874 6542 14000
+average relative error: 0.424271
+4691 6496 16000
+average relative error: 0.424097
+4940 6636 18000
+average relative error: 0.423745
+5219 6821 8.67025e-07
+average relative error: 0.423237
+4970 6838 2000
+average relative error: 0.423032
+4922 6965 4000
+average relative error: 0.422998
+5082 7114 6000
+average relative error: 0.422898
+5239 7209 8000
+average relative error: 0.422698
+5443 7470 10000
+average relative error: 0.422484
+5450 7549 12000
+average relative error: 0.422326
+5310 7309 14000
+average relative error: 0.422132
+5610 7493 16000
+average relative error: 0.421769
+5487 7493 18000
+average relative error: 0.421534
+5467 7603 9.04722e-07
+average relative error: 0.421405
+5630 7679 2000
+average relative error: 0.421167
+5366 7520 4000
+average relative error: 0.421085
+5252 7502 6000
+average relative error: 0.421115
+5360 7623 8000
+average relative error: 0.42112
+5097 7467 10000
+average relative error: 0.421299
+5007 7416 12000
+average relative error: 0.421542
+5260 7490 14000
+average relative error: 0.421552
+5070 7440 16000
+average relative error: 0.421737
+5028 7272 18000
+average relative error: 0.421835
+5059 7333 9.42418e-07
+average relative error: 0.421946
+4968 7206 2000
+average relative error: 0.42206
+5059 7119 4000
+average relative error: 0.422001
+4884 6947 6000
+average relative error: 0.422002
+4735 6923 8000
+average relative error: 0.42216
+4754 6861 10000
+average relative error: 0.422243
+4592 6766 12000
+average relative error: 0.422443
+4559 6758 14000
+average relative error: 0.422676
+4614 6782 16000
+average relative error: 0.422859
+4296 6441 18000
+average relative error: 0.423154
+4123 6404 9.80115e-07
+average relative error: 0.423654
+4152 6360 2000
+average relative error: 0.424068
+4217 6371 4000
+average relative error: 0.424399
+4391 6362 6000
+average relative error: 0.424493
+4378 6344 8000
+average relative error: 0.424586
+4384 6301 10000
+average relative error: 0.424633
+4450 6331 12000
+average relative error: 0.424626
+4436 6388 14000
+average relative error: 0.424684
+4509 6500 16000
+average relative error: 0.424747
+4904 6514 18000
+average relative error: 0.424388
+5093 6752 1.01781e-06
+average relative error: 0.424023
+5020 6731 2000
+average relative error: 0.423716
+4616 6394 4000
+average relative error: 0.423574
+4711 6578 6000
+average relative error: 0.423475
+4703 6597 8000
+average relative error: 0.423399
+4600 6509 10000
+average relative error: 0.423368
+4453 6344 12000
+average relative error: 0.423373
+4199 6195 14000
+average relative error: 0.423561
+4043 6137 16000
+average relative error: 0.4239
+3947 6111 18000
+average relative error: 0.424346
+3903 6221 1.05551e-06
+average relative error: 0.424951
+4146 6357 2000
+average relative error: 0.425337
+4444 6253 4000
+average relative error: 0.425272
+4333 6332 6000
+average relative error: 0.4254
+4699 6687 8000
+average relative error: 0.425391
+4849 6705 10000
+average relative error: 0.425242
+5057 6738 12000
+average relative error: 0.424917
+5097 6629 14000
+average relative error: 0.424484
+4988 6522 16000
+average relative error: 0.424078
+4742 6298 18000
+average relative error: 0.423746
+4508 6235 1.09321e-06
+average relative error: 0.423606
+4276 6259 2000
+average relative error: 0.423744
+4374 6279 4000
+average relative error: 0.423784
+4225 6161 6000
+average relative error: 0.423902
+3777 6104 8000
+average relative error: 0.424555
+3603 5951 10000
+average relative error: 0.425325
+3389 5773 12000
+average relative error: 0.426265
+3377 5657 14000
+average relative error: 0.427103
+3526 5563 16000
+average relative error: 0.427608
+4113 5839 18000
+average relative error: 0.427582
+4297 5930 1.1309e-06
+average relative error: 0.427423
+4404 5953 2000
+average relative error: 0.427172
+4421 6050 4000
+average relative error: 0.426977
+4456 5981 6000
+average relative error: 0.426697
+4341 5868 8000
+average relative error: 0.426451
+4247 5730 10000
+average relative error: 0.426198
+4090 5497 12000
+average relative error: 0.425929
+3920 5394 14000
+average relative error: 0.425767
+3764 5251 16000
+average relative error: 0.425667
+3267 5152 18000
+average relative error: 0.426157
+2915 4912 1.1686e-06
+average relative error: 0.426992
+2761 4829 2000
+average relative error: 0.428027
+2688 4785 4000
+average relative error: 0.429156
+2672 4732 6000
+average relative error: 0.430248
+2856 4757 8000
+average relative error: 0.430997
+3031 4756 10000
+average relative error: 0.431436
+3301 4714 12000
+average relative error: 0.431425
+3319 4510 14000
+average relative error: 0.431196
+3175 4267 16000
+average relative error: 0.430922
+3456 4471 18000
+average relative error: 0.430492
+3508 4439 1.2063e-06
+average relative error: 0.429976
+3398 4396 2000
+average relative error: 0.429551
+3360 4436 4000
+average relative error: 0.429212
+3390 4595 6000
+average relative error: 0.428983
+3405 4728 8000
+average relative error: 0.428858
+3394 4850 10000
+average relative error: 0.428859
+3491 4987 12000
+average relative error: 0.428858
+3888 5250 14000
+average relative error: 0.428618
+4175 5328 16000
+average relative error: 0.428153
+3955 5374 18000
+average relative error: 0.427942
+3950 5305 1.24399e-06
+average relative error: 0.427685
+3872 5166 2000
+average relative error: 0.427402
+3740 4992 4000
+average relative error: 0.427123
+3659 5012 6000
+average relative error: 0.426951
+3765 5231 8000
+average relative error: 0.426838
+3666 5201 10000
+average relative error: 0.426814
+3508 5152 12000
+average relative error: 0.426939
+3097 4969 14000
+average relative error: 0.427465
+2937 4841 16000
+average relative error: 0.428119
+2966 4696 18000
+average relative error: 0.428576
+3107 4704 1.28169e-06
+average relative error: 0.428828
+3361 4779 2000
+average relative error: 0.428807
+3408 4658 4000
+average relative error: 0.428626
+3122 4397 6000
+average relative error: 0.428567
+2931 4442 8000
+average relative error: 0.42882
+2895 4391 10000
+average relative error: 0.429075
+2881 4302 12000
+average relative error: 0.42926
+3141 4363 14000
+average relative error: 0.429144
+3126 4333 16000
+average relative error: 0.429021
+3052 4313 18000
+average relative error: 0.428975
+2936 4310 1.31939e-06
+average relative error: 0.429087
+2719 4194 2000
+average relative error: 0.42941
+2731 4083 4000
+average relative error: 0.429596
+2939 4041 6000
+average relative error: 0.429441
+2866 4008 8000
+average relative error: 0.429354
+2844 4049 10000
+average relative error: 0.429338
+3171 4322 12000
+average relative error: 0.429152
+3288 4532 14000
+average relative error: 0.429009
+3541 4756 16000
+average relative error: 0.428769
+3677 4807 18000
+average relative error: 0.428431
+3993 5118 1.35708e-06
+average relative error: 0.428024
+4234 5313 2000
+average relative error: 0.427544
+4480 5512 4000
+average relative error: 0.426999
+4571 5643 6000
+average relative error: 0.426469
+4706 5750 8000
+average relative error: 0.425907
+4767 5849 10000
+average relative error: 0.425362
+4641 5984 12000
+average relative error: 0.42499
+4505 6043 14000
+average relative error: 0.424762
+4356 6100 16000
+average relative error: 0.424696
+4237 6008 18000
+average relative error: 0.424678
+3907 5835 1.39478e-06
+average relative error: 0.424864
+3803 5796 2000
+average relative error: 0.425131
+3802 5823 4000
+average relative error: 0.425417
+3773 5820 6000
+average relative error: 0.425731
+3690 5713 8000
+average relative error: 0.426059
+3864 5773 10000
+average relative error: 0.42624
+4034 5864 12000
+average relative error: 0.426313
+4069 5883 14000
+average relative error: 0.426365
+3909 5677 16000
+average relative error: 0.426433
+3935 5555 18000
+average relative error: 0.426394
+4020 5470 1.43248e-06
+average relative error: 0.426222
+3982 5521 2000
+average relative error: 0.426117
+3831 5490 4000
+average relative error: 0.426135
+3803 5444 6000
+average relative error: 0.426149
+3818 5421 8000
+average relative error: 0.426133
+3761 5415 10000
+average relative error: 0.426169
+3451 5284 12000
+average relative error: 0.42644
+3304 5163 14000
+average relative error: 0.426792
+3377 5019 16000
+average relative error: 0.426946
+3271 4855 18000
+average relative error: 0.427093
+3315 4821 1.47017e-06
+average relative error: 0.427163
+3270 4814 2000
+average relative error: 0.427278
+3461 4991 4000
+average relative error: 0.427316
+3360 4870 6000
+average relative error: 0.427372
+3211 4711 8000
+average relative error: 0.427473
+3068 4594 10000
+average relative error: 0.42765
+3085 4560 12000
+average relative error: 0.427777
+2940 4427 14000
+average relative error: 0.427974
+3082 4466 16000
+average relative error: 0.428027
+3277 4587 18000
+average relative error: 0.427956
+3282 4561 1.50787e-06
+average relative error: 0.42786
+3086 4454 2000
+average relative error: 0.427899
+2855 4383 4000
+average relative error: 0.428166
+3029 4514 6000
+average relative error: 0.42832
+3196 4521 8000
+average relative error: 0.428286
+3139 4414 10000
+average relative error: 0.428231
+3013 4276 12000
+average relative error: 0.428209
+3123 4302 14000
+average relative error: 0.428084
+2835 4114 16000
+average relative error: 0.428141
+2582 3910 18000
+average relative error: 0.428351
+2490 3882 1.54557e-06
+average relative error: 0.42867
+2640 3906 2000
+average relative error: 0.428794
+2767 4030 4000
+average relative error: 0.428861
+2651 4010 6000
+average relative error: 0.429064
+2548 3967 8000
+average relative error: 0.429373
+2476 3773 10000
+average relative error: 0.4296
+2539 3695 12000
+average relative error: 0.429662
+2280 3459 14000
+average relative error: 0.429872
+2451 3460 16000
+average relative error: 0.429828
+2710 3555 18000
+average relative error: 0.429547
+2477 3383 1.58326e-06
+average relative error: 0.429395
+2419 3419 2000
+average relative error: 0.429357
+2229 3401 4000
+average relative error: 0.429585
+2144 3349 6000
+average relative error: 0.429898
+2002 3178 8000
+average relative error: 0.43027
+2141 3147 10000
+average relative error: 0.430363
+2233 3228 12000
+average relative error: 0.430399
+2544 3363 14000
+average relative error: 0.430145
+2560 3390 16000
+average relative error: 0.429897
+2494 3464 18000
+average relative error: 0.429802
+2650 3475 1.62096e-06
+average relative error: 0.429526
+2679 3563 2000
+average relative error: 0.429295
+2690 3617 4000
+average relative error: 0.429099
+2846 3744 6000
+average relative error: 0.428837
+2797 3586 8000
+average relative error: 0.428499
+2727 3582 10000
+average relative error: 0.428235
+2696 3649 12000
+average relative error: 0.428063
+2590 3691 14000
+average relative error: 0.428056
+2559 3710 16000
+average relative error: 0.428106
+2641 3846 18000
+average relative error: 0.42817
+2681 3852 1.65866e-06
+average relative error: 0.42819
+2633 3812 2000
+average relative error: 0.428234
+2649 3819 4000
+average relative error: 0.428265
+2603 3863 6000
+average relative error: 0.42839
+2579 3640 8000
+average relative error: 0.428352
+2492 3512 10000
+average relative error: 0.428309
+2455 3484 12000
+average relative error: 0.428289
+2510 3519 14000
+average relative error: 0.42823
+2634 3646 16000
+average relative error: 0.428132
+2482 3635 18000
+average relative error: 0.428213
+2470 3594 1.69635e-06
+average relative error: 0.428273
+2665 3735 2000
+average relative error: 0.428213
+2734 3807 4000
+average relative error: 0.428134
+2647 3791 6000
+average relative error: 0.428143
+2676 3656 8000
+average relative error: 0.428007
+2820 3662 10000
+average relative error: 0.427722
+2922 3797 12000
+average relative error: 0.427441
+2968 3866 14000
+average relative error: 0.427168
+2978 3958 16000
+average relative error: 0.426953
+3097 4099 18000
+average relative error: 0.426728
+3263 4279 1.73405e-06
+average relative error: 0.426477
+3168 4380 2000
+average relative error: 0.426382
+3148 4389 4000
+average relative error: 0.426313
+3282 4489 6000
+average relative error: 0.426186
+3597 4646 8000
+average relative error: 0.425896
+3656 4680 10000
+average relative error: 0.425583
+3715 4845 12000
+average relative error: 0.425322
+3826 4992 14000
+average relative error: 0.425064
+3908 5165 16000
+average relative error: 0.424843
+4363 5595 18000
+average relative error: 0.424539
+4513 5869 1.77175e-06
+average relative error: 0.424275
+4563 5988 2000
+average relative error: 0.424037
+4736 6142 4000
+average relative error: 0.423768
+4852 6323 6000
+average relative error: 0.423513
+5165 6738 8000
+average relative error: 0.423262
+5457 7011 10000
+average relative error: 0.42297
+5586 7273 12000
+average relative error: 0.422716
+5635 7366 14000
+average relative error: 0.422474
+5750 7486 16000
+average relative error: 0.422222
+5529 7562 18000
+average relative error: 0.422108
+5423 7559 1.80944e-06
+average relative error: 0.422049
+5550 7683 2000
+average relative error: 0.421971
+5427 7617 4000
+average relative error: 0.421933
+5195 7390 6000
+average relative error: 0.421934
+4737 7199 8000
+average relative error: 0.422136
+4299 6894 10000
+average relative error: 0.42251
+4244 6744 12000
+average relative error: 0.422853
+4108 6554 14000
+average relative error: 0.423207
+4095 6529 16000
+average relative error: 0.423558
+4204 6556 18000
+average relative error: 0.423836
+4222 6491 1.84714e-06
+average relative error: 0.424068
+4068 6404 2000
+average relative error: 0.424373
+4151 6350 4000
+average relative error: 0.424588
+4231 6138 6000
+average relative error: 0.424641
+4215 5946 8000
+average relative error: 0.424612
+4387 5915 10000
+average relative error: 0.424458
+4394 5973 12000
+average relative error: 0.424327
+4408 5855 14000
+average relative error: 0.424134
+4465 5997 16000
+average relative error: 0.423971
+4249 5938 18000
+average relative error: 0.423918
+4257 6016 1.88484e-06
+average relative error: 0.423897
+4407 6272 2000
+average relative error: 0.423895
+4527 6457 4000
+average relative error: 0.4239
+4590 6456 6000
+average relative error: 0.423865
+4725 6514 8000
+average relative error: 0.423776
+4900 6634 10000
+average relative error: 0.423637
+5077 6806 12000
+average relative error: 0.423473
+5086 6731 14000
+average relative error: 0.423276
+4985 6761 16000
+average relative error: 0.423144
+4980 6710 18000
+average relative error: 0.422995
+4918 6696 1.92253e-06
+average relative error: 0.422875
+4788 6817 2000
+average relative error: 0.422876
+4806 6935 4000
+average relative error: 0.422916
+4773 6916 6000
+average relative error: 0.422966
+4691 6786 8000
+average relative error: 0.423012
+4556 6731 10000
+average relative error: 0.423118
+4588 6875 12000
+average relative error: 0.423264
+4555 6731 14000
+average relative error: 0.423369
+4662 6729 16000
+average relative error: 0.423408
+4641 6643 18000
+average relative error: 0.423423
+4832 6765 1.96023e-06
+average relative error: 0.423378
+4802 6684 2000
+average relative error: 0.423318
+4635 6675 4000
+average relative error: 0.42335
+4745 6730 6000
+average relative error: 0.423341
+5026 6941 8000
+average relative error: 0.42326
+5079 7003 10000
+average relative error: 0.423175
+4916 7015 12000
+average relative error: 0.423182
+5167 7174 14000
+average relative error: 0.423116
+5397 7437 16000
+average relative error: 0.423031
+5580 7537 18000
+average relative error: 0.422894
+5434 7534 1.99793e-06
+average relative error: 0.422825
+5532 7470 2000
+average relative error: 0.422689
+5525 7520 4000
+average relative error: 0.422573
+5442 7460 6000
+average relative error: 0.422476
+5034 7236 8000
+average relative error: 0.422504
+4760 7063 10000
+average relative error: 0.422619
+4558 6731 12000
+average relative error: 0.42272
+4149 6534 14000
+average relative error: 0.423003
+3778 6358 16000
+average relative error: 0.423486
+3344 5989 18000
+average relative error: 0.424168
+3210 5768 2.03562e-06
+average relative error: 0.424858
+2923 5438 2000
+average relative error: 0.425663
+2741 5198 4000
+average relative error: 0.426532
+2590 4901 6000
+average relative error: 0.427389
+2550 4560 8000
+average relative error: 0.428053
+2540 4373 10000
+average relative error: 0.428591
+2636 4147 12000
+average relative error: 0.428856
+2616 3923 14000
+average relative error: 0.428986
+2568 3791 16000
+average relative error: 0.429072
+2658 3732 18000
+average relative error: 0.429026
+2534 3649 2.07332e-06
+average relative error: 0.429046
+2579 3610 2000
+average relative error: 0.428993
+2398 3526 4000
+average relative error: 0.429068
+2293 3419 6000
+average relative error: 0.42918
+2340 3426 8000
+average relative error: 0.429243
+2285 3415 10000
+average relative error: 0.429361
+2343 3418 12000
+average relative error: 0.429414
+2349 3370 14000
+average relative error: 0.429423
+2297 3292 16000
+average relative error: 0.42943
+2238 3269 18000
+average relative error: 0.429486
+2401 3390 2.11102e-06
+average relative error: 0.429455
+2496 3482 2000
+average relative error: 0.429393
+2640 3513 4000
+average relative error: 0.429218
+2824 3637 6000
+average relative error: 0.428966
+2915 3737 8000
+average relative error: 0.428706
+2918 3809 10000
+average relative error: 0.428488
+2939 3915 12000
+average relative error: 0.428317
+2856 3828 14000
+average relative error: 0.428162
+3070 3988 16000
+average relative error: 0.427935
+3121 4072 18000
+average relative error: 0.427718
+3182 4207 2.14871e-06
+average relative error: 0.427533
+2971 4129 2000
+average relative error: 0.427467
+2833 4044 4000
+average relative error: 0.427467
+2746 3951 6000
+average relative error: 0.427487
+2573 3903 8000
+average relative error: 0.427642
+2541 3834 10000
+average relative error: 0.427784
+2448 3737 12000
+average relative error: 0.427955
+2506 3671 14000
+average relative error: 0.428019
+2349 3596 16000
+average relative error: 0.428197
+2295 3551 18000
+average relative error: 0.428403
+2202 3495 2.18641e-06
+average relative error: 0.428676
+2482 3659 2000
+average relative error: 0.428755
+2658 3701 4000
+average relative error: 0.428692
+2710 3665 6000
+average relative error: 0.428561
+2814 3733 8000
+average relative error: 0.428387
+2974 3891 10000
+average relative error: 0.428182
+3045 3970 12000
+average relative error: 0.427969
+3108 4006 14000
+average relative error: 0.427732
+3201 4077 16000
+average relative error: 0.42747
+3366 4265 18000
+average relative error: 0.427198
+3572 4524 2.22411e-06
+average relative error: 0.426926
+3416 4595 2000
+average relative error: 0.426787
+3389 4638 4000
+average relative error: 0.426689
+3390 4636 6000
+average relative error: 0.426589
+3489 4713 8000
+average relative error: 0.426462
+3583 4910 10000
+average relative error: 0.426367
+3645 4987 12000
+average relative error: 0.42627
+3930 5213 14000
+average relative error: 0.426103
+4159 5484 16000
+average relative error: 0.425923
+4138 5546 18000
+average relative error: 0.42578
+3932 5526 2.2618e-06
+average relative error: 0.425746
+4001 5541 2000
+average relative error: 0.425678
+4026 5557 4000
+average relative error: 0.425603
+4212 5632 6000
+average relative error: 0.425456
+4304 5770 8000
+average relative error: 0.425315
+4266 5823 10000
+average relative error: 0.425216
+4355 5980 12000
+average relative error: 0.42513
+4314 6097 14000
+average relative error: 0.42511
+4258 6205 16000
+average relative error: 0.425163
+4461 6390 18000
+average relative error: 0.425175
+4675 6438 2.2995e-06
+average relative error: 0.425096
+4913 6699 2000
+average relative error: 0.424995
+5085 6772 4000
+average relative error: 0.424843
+5275 6964 6000
+average relative error: 0.424672
+5356 7094 8000
+average relative error: 0.424509
+5422 7130 10000
+average relative error: 0.424331
+5573 7363 12000
+average relative error: 0.424164
+5696 7527 14000
+average relative error: 0.423997
+5743 7661 16000
+average relative error: 0.423852
+6021 8058 18000
+average relative error: 0.423713
+6079 8172 2.3372e-06
+average relative error: 0.423585
+6017 8295 2000
+average relative error: 0.423513
+5987 8196 4000
+average relative error: 0.423425
+5822 8183 6000
+average relative error: 0.423396
+5824 8136 8000
+average relative error: 0.423354
+6013 8307 10000
+average relative error: 0.423287
+5711 8157 12000
+average relative error: 0.423295
+5744 8248 14000
+average relative error: 0.423315
+5981 8479 16000
+average relative error: 0.423306
+5799 8551 18000
+average relative error: 0.423388
+5605 8381 2.37489e-06
+average relative error: 0.423502
+5416 8187 2000
+average relative error: 0.423642
+5354 7952 4000
+average relative error: 0.423739
+5150 7660 6000
+average relative error: 0.42384
+5056 7527 8000
+average relative error: 0.423942
+5189 7657 10000
+average relative error: 0.424023
+5381 7773 12000
+average relative error: 0.424056
+5433 7825 14000
+average relative error: 0.424081
+5153 7813 16000
+average relative error: 0.424225
+5131 7788 18000
+average relative error: 0.424372
+5324 7856 2.41259e-06
+average relative error: 0.424452
+5364 7813 2000
+average relative error: 0.424502
+5602 7926 4000
+average relative error: 0.424487
+5943 8017 6000
+average relative error: 0.42437
+6067 8024 8000
+average relative error: 0.424211
+6019 8219 10000
+average relative error: 0.42412
+5945 8252 12000
+average relative error: 0.424065
+5832 8201 14000
+average relative error: 0.424037
+5727 8048 16000
+average relative error: 0.424008
+5839 8236 18000
+average relative error: 0.423987
+5791 8337 2.45029e-06
+average relative error: 0.424011
+5945 8405 2000
+average relative error: 0.423996
+5566 8174 4000
+average relative error: 0.424064
+5269 7871 6000
+average relative error: 0.424171
+5545 8018 8000
+average relative error: 0.424204
+5176 7717 10000
+average relative error: 0.424306
+5164 7719 12000
+average relative error: 0.424413
+5182 7647 14000
+average relative error: 0.424491
+5343 7729 16000
+average relative error: 0.424525
+5246 7673 18000
+average relative error: 0.424583
+5311 7752 2.48798e-06
+average relative error: 0.424636
+5372 7877 2000
+average relative error: 0.424699
+5568 7801 4000
+average relative error: 0.424663
+5810 7829 6000
+average relative error: 0.424547
+5441 7710 8000
+average relative error: 0.424536
+5558 7667 10000
+average relative error: 0.424468
+5432 7598 12000
+average relative error: 0.424429
+5425 7581 14000
+average relative error: 0.424389
+5314 7607 16000
+average relative error: 0.424399
+5585 7891 18000
+average relative error: 0.424382
+5530 7970 2.52568e-06
+average relative error: 0.424407
+5145 7744 2000
+average relative error: 0.424528
+5293 7849 4000
+average relative error: 0.424614
+5407 7949 6000
+average relative error: 0.424682
+5502 7874 8000
+average relative error: 0.424692
+5622 7902 10000
+average relative error: 0.424663
+5698 7847 12000
+average relative error: 0.424593
+5804 7951 14000
+average relative error: 0.424512
+5817 7935 16000
+average relative error: 0.424423
+5564 7999 18000
+average relative error: 0.424443
+5446 7930 2.56338e-06
+average relative error: 0.424489
+5621 7905 2000
+average relative error: 0.424462
+5623 7982 4000
+average relative error: 0.424455
+5574 8045 6000
+average relative error: 0.424483
+5801 8171 8000
+average relative error: 0.42446
+5706 8058 10000
+average relative error: 0.424442
+5758 7997 12000
+average relative error: 0.42439
+5572 7846 14000
+average relative error: 0.424366
+5422 7770 16000
+average relative error: 0.424379
+5389 7825 18000
+average relative error: 0.424419
+5372 7803 2.60107e-06
+average relative error: 0.42446
+5313 7622 2000
+average relative error: 0.424474
+5215 7571 4000
+average relative error: 0.424514
+5174 7642 6000
+average relative error: 0.424589
+5038 7556 8000
+average relative error: 0.424698
+5086 7437 10000
+average relative error: 0.424752
+4907 7246 12000
+average relative error: 0.424826
+4989 7220 14000
+average relative error: 0.424859
+4912 7049 16000
+average relative error: 0.424873
+4827 7036 18000
+average relative error: 0.42492
+4909 7134 2.63877e-06
+average relative error: 0.42496
+5023 7146 2000
+average relative error: 0.424957
+5286 7392 4000
+average relative error: 0.424919
+5140 7361 6000
+average relative error: 0.42493
+5398 7632 8000
+average relative error: 0.424914
+5348 7522 10000
+average relative error: 0.424888
+5269 7327 12000
+average relative error: 0.424839
+5133 7236 14000
+average relative error: 0.424818
+4819 6834 16000
+average relative error: 0.424808
+4504 6593 18000
+average relative error: 0.424863
+4266 6495 2.67647e-06
+average relative error: 0.425001
+4320 6492 2000
+average relative error: 0.42511
+3994 6397 4000
+average relative error: 0.425358
+3940 6353 6000
+average relative error: 0.425621
+3553 6213 8000
+average relative error: 0.426073
+3504 6058 10000
+average relative error: 0.426497
+3701 6051 12000
+average relative error: 0.426788
+3831 6068 14000
+average relative error: 0.427007
+4151 5951 16000
+average relative error: 0.427016
+4405 5941 18000
+average relative error: 0.426907
+4275 5792 2.71417e-06
+average relative error: 0.426807
+4209 5787 2000
+average relative error: 0.426735
+4544 6046 4000
+average relative error: 0.426602
+4639 6182 6000
+average relative error: 0.426472
+4864 6431 8000
+average relative error: 0.426328
+5106 6656 10000
+average relative error: 0.426158
+5122 6797 12000
+average relative error: 0.426022
+5054 6873 14000
+average relative error: 0.425931
+5179 7089 16000
+average relative error: 0.425852
+5251 7187 18000
+average relative error: 0.425774
+5312 7104 2.75186e-06
+average relative error: 0.425653
+5407 7184 2000
+average relative error: 0.42552
+5215 7298 4000
+average relative error: 0.425485
+5007 7228 6000
+average relative error: 0.425509
+4684 7038 8000
+average relative error: 0.425614
+4413 6816 10000
+average relative error: 0.425776
+4247 6673 12000
+average relative error: 0.425974
+4068 6464 14000
+average relative error: 0.426195
+3903 6284 16000
+average relative error: 0.426444
+3651 5993 18000
+average relative error: 0.426735
+3770 5904 2.78956e-06
+average relative error: 0.426923
+3725 5887 2000
+average relative error: 0.42713
+3619 5753 4000
+average relative error: 0.427349
+3555 5553 6000
+average relative error: 0.427531
+3646 5398 8000
+average relative error: 0.427602
+3882 5387 10000
+average relative error: 0.427548
+3765 5238 12000
+average relative error: 0.4275
+3656 5052 14000
+average relative error: 0.427438
+3655 5073 16000
+average relative error: 0.427386
+3753 5064 18000
+average relative error: 0.427281
+3769 5132 2.82726e-06
+average relative error: 0.427194
+3866 5328 2000
+average relative error: 0.427129
+3764 5318 4000
+average relative error: 0.42711
+3765 5261 6000
+average relative error: 0.42707
+3824 5313 8000
+average relative error: 0.42702
+3582 5287 10000
+average relative error: 0.427085
+3657 5240 12000
+average relative error: 0.427093
+3793 5245 14000
+average relative error: 0.427034
+3894 5347 16000
+average relative error: 0.426963
+4055 5492 18000
+average relative error: 0.426867
+4332 5832 2.86495e-06
+average relative error: 0.426761
+4437 6089 2000
+average relative error: 0.42669
+4702 6294 4000
+average relative error: 0.426574
+5007 6504 6000
+average relative error: 0.426407
+5199 6720 8000
+average relative error: 0.426232
+5359 6792 10000
+average relative error: 0.426024
+5403 6893 12000
+average relative error: 0.425828
+5506 6992 14000
+average relative error: 0.425625
+5583 7139 16000
+average relative error: 0.425433
+5643 7299 18000
+average relative error: 0.425262
+5420 7427 2.90265e-06
+average relative error: 0.42519
+5302 7453 2000
+average relative error: 0.425165
+5234 7511 4000
+average relative error: 0.425178
+5186 7520 6000
+average relative error: 0.42521
+5180 7657 8000
+average relative error: 0.425279
+5131 7565 10000
+average relative error: 0.425342
+5057 7382 12000
+average relative error: 0.425386
+4865 7160 14000
+average relative error: 0.425446
+5008 7328 16000
+average relative error: 0.425494
+4805 7137 18000
+average relative error: 0.425571
+4578 6885 2.94035e-06
+average relative error: 0.425672
+4349 6627 2000
+average relative error: 0.425797
+4168 6372 4000
+average relative error: 0.425929
+4048 6270 6000
+average relative error: 0.426086
+3672 5995 8000
+average relative error: 0.42635
+3619 5895 10000
+average relative error: 0.426608
+3543 5669 12000
+average relative error: 0.426828
+3567 5501 14000
+average relative error: 0.426975
+3101 5294 16000
+average relative error: 0.427331
+3092 5152 18000
+average relative error: 0.427633
+3220 5117 2.97804e-06
+average relative error: 0.427838
+3308 5047 2000
+average relative error: 0.427961
+3369 4906 4000
+average relative error: 0.427997
+3257 4748 6000
+average relative error: 0.428035
+3404 4800 8000
+average relative error: 0.428012
+3528 4943 10000
+average relative error: 0.427978
+3620 4932 12000
+average relative error: 0.427896
+3546 4833 14000
+average relative error: 0.427814
+3488 4720 16000
+average relative error: 0.427721
+3429 4720 18000
+average relative error: 0.427657
+3258 4711 3.01574e-06
+average relative error: 0.42768
+3268 4735 2000
+average relative error: 0.427706
+3442 4831 4000
+average relative error: 0.427676
+3643 4950 6000
+average relative error: 0.42759
+3554 4943 8000
+average relative error: 0.427545
+3453 4978 10000
+average relative error: 0.427562
+3367 4957 12000
+average relative error: 0.427617
+3570 5055 14000
+average relative error: 0.427603
+3661 5024 16000
+average relative error: 0.427535
+3805 5065 18000
+average relative error: 0.427415
+3948 5137 3.05344e-06
+average relative error: 0.42726
+3871 5162 2000
+average relative error: 0.427144
+3815 5264 4000
+average relative error: 0.427086
+3739 5283 6000
+average relative error: 0.427068
+3858 5381 8000
+average relative error: 0.427029
+3940 5440 10000
+average relative error: 0.426972
+4087 5555 12000
+average relative error: 0.426889
+4070 5663 14000
+average relative error: 0.426845
+4227 5788 16000
+average relative error: 0.426775
+4341 5903 18000
+average relative error: 0.426693
+4244 5886 3.09113e-06
+average relative error: 0.426645
+4178 5773 2000
+average relative error: 0.42659
+4093 5773 4000
+average relative error: 0.42657
+3947 5570 6000
+average relative error: 0.426552
+3839 5545 8000
+average relative error: 0.426573
+3752 5533 10000
+average relative error: 0.426632
+3613 5407 12000
+average relative error: 0.426716
+3579 5349 14000
+average relative error: 0.426798
+3316 5193 16000
+average relative error: 0.426966
+3109 5059 18000
+average relative error: 0.427208
+3339 5233 3.12883e-06
+average relative error: 0.427377
+3584 5365 2000
+average relative error: 0.42746
+3738 5402 4000
+average relative error: 0.427482
+4189 5671 6000
+average relative error: 0.427393
+4418 5871 8000
+average relative error: 0.427275
+4492 5954 10000
+average relative error: 0.427153
+4645 5989 12000
+average relative error: 0.426988
+4742 6084 14000
+average relative error: 0.426816
+4841 6093 16000
+average relative error: 0.426616
+4894 6150 18000
+average relative error: 0.426413
+4622 6122 3.16653e-06
+average relative error: 0.426292
+4607 6236 2000
+average relative error: 0.426205
+4406 6214 4000
+average relative error: 0.426186
+4079 6133 6000
+average relative error: 0.426278
+3823 5982 8000
+average relative error: 0.426442
+3617 5839 10000
+average relative error: 0.426665
+3536 5724 12000
+average relative error: 0.426892
+3349 5517 14000
+average relative error: 0.427152
+3241 5315 16000
+average relative error: 0.427403
+3140 5082 18000
+average relative error: 0.427628
+3120 4928 3.20422e-06
+average relative error: 0.427807
+2886 4684 2000
+average relative error: 0.428036
+2787 4456 4000
+average relative error: 0.428236
+2686 4292 6000
+average relative error: 0.428435
+2655 4128 8000
+average relative error: 0.428583
+2670 4122 10000
+average relative error: 0.428718
+2758 4162 12000
+average relative error: 0.428812
+2820 4192 14000
+average relative error: 0.428879
+2850 4160 16000
+average relative error: 0.428915
+3170 4360 18000
+average relative error: 0.428853
+3329 4467 3.24192e-06
+average relative error: 0.428752
+3473 4583 2000
+average relative error: 0.428625
+3662 4691 4000
+average relative error: 0.428454
+3748 4723 6000
+average relative error: 0.428259
+3930 4903 8000
+average relative error: 0.42805
+3866 4933 10000
+average relative error: 0.427874
+3758 4988 12000
+average relative error: 0.427758
+3747 4984 14000
+average relative error: 0.427645
+3696 4971 16000
+average relative error: 0.42755
+3415 4943 18000
+average relative error: 0.427573
+3293 4916 3.27962e-06
+average relative error: 0.427648
+3309 4960 2000
+average relative error: 0.42773
+3325 5014 4000
+average relative error: 0.427822
+3483 5101 6000
+average relative error: 0.427864
+3455 5061 8000
+average relative error: 0.427906
+3515 5045 10000
+average relative error: 0.427914
+3537 4993 12000
+average relative error: 0.427896
+3366 4812 14000
+average relative error: 0.427898
+3453 4785 16000
+average relative error: 0.42785
+3619 4880 18000
+average relative error: 0.427759
+3601 4886 3.31731e-06
+average relative error: 0.427679
+3458 4887 2000
+average relative error: 0.427662
+3388 4805 4000
+average relative error: 0.427652
+3076 4614 6000
+average relative error: 0.427734
+2957 4555 8000
+average relative error: 0.427861
+2754 4371 10000
+average relative error: 0.428041
+2767 4319 12000
+average relative error: 0.428191
+2868 4250 14000
+average relative error: 0.428252
+2772 4171 16000
+average relative error: 0.428338
+2639 4099 18000
+average relative error: 0.428478
+2661 4080 3.35501e-06
+average relative error: 0.428596
+2779 4122 2000
+average relative error: 0.428657
+2792 4091 4000
+average relative error: 0.428698
+3052 4214 6000
+average relative error: 0.428645
+3255 4355 8000
+average relative error: 0.428543
+3256 4272 10000
+average relative error: 0.428413
+3227 4261 12000
+average relative error: 0.428292
+3760 4756 14000
+average relative error: 0.42811
+4023 4939 16000
+average relative error: 0.427887
+4099 5025 18000
+average relative error: 0.427662
+4009 5077 3.39271e-06
+average relative error: 0.427483
+4157 5361 2000
+average relative error: 0.42733
+4323 5550 4000
+average relative error: 0.427171
+4479 5811 6000
+average relative error: 0.427027
+4401 5896 8000
+average relative error: 0.426931
+4683 5999 10000
+average relative error: 0.42677
+4958 6210 12000
+average relative error: 0.426577
+4747 6448 14000
+average relative error: 0.426502
+4696 6506 16000
+average relative error: 0.426457
+4682 6480 18000
+average relative error: 0.42641
+4714 6455 3.4304e-06
+average relative error: 0.426347
+4660 6567 2000
+average relative error: 0.426329
+4548 6502 4000
+average relative error: 0.426332
+4398 6446 6000
+average relative error: 0.426375
+4354 6310 8000
+average relative error: 0.4264
+4055 6045 10000
+average relative error: 0.426471
+3761 5789 12000
+average relative error: 0.426594
+3476 5546 14000
+average relative error: 0.426778
+3338 5434 16000
+average relative error: 0.426997
+3542 5538 18000
+average relative error: 0.427146
+3641 5602 3.4681e-06
+average relative error: 0.427267
+3329 5395 2000
+average relative error: 0.427477
+3067 5034 4000
+average relative error: 0.427709
+2815 4718 6000
+average relative error: 0.427978
+2539 4379 8000
+average relative error: 0.428299
+2486 4021 10000
+average relative error: 0.428503
+2346 3725 12000
+average relative error: 0.428675
+2171 3483 14000
+average relative error: 0.428865
+1878 3271 16000
+average relative error: 0.429202
+1457 3061 18000
+average relative error: 0.429925
+1071 2839 3.5058e-06
+average relative error: 0.431238
+1021 2636 2000
+average relative error: 0.432474
+1054 2438 4000
+average relative error: 0.433418
+1058 2224 6000
+average relative error: 0.434135
+1121 2101 8000
+average relative error: 0.434606
+1187 1983 10000
+average relative error: 0.434859
+1158 1825 12000
+average relative error: 0.435009
+1178 1754 14000
+average relative error: 0.435067
+1193 1631 16000
+average relative error: 0.434995
+1165 1546 18000
+average relative error: 0.43488
+1136 1508 3.54349e-06
+average relative error: 0.434765
+1061 1510 2000
+average relative error: 0.434753
+1014 1493 4000
+average relative error: 0.434793
+1040 1482 6000
+average relative error: 0.434783
+1038 1496 8000
+average relative error: 0.434789
+1029 1477 10000
+average relative error: 0.43479
+1037 1436 12000
+average relative error: 0.434737
+1036 1442 14000
+average relative error: 0.434692
+1073 1469 16000
+average relative error: 0.434623
+1042 1425 18000
+average relative error: 0.434552
+1055 1439 3.58119e-06
+average relative error: 0.434478
+1115 1489 2000
+average relative error: 0.434374
+1143 1502 4000
+average relative error: 0.434247
+1152 1557 6000
+average relative error: 0.43416
+1076 1525 8000
+average relative error: 0.434143
+1146 1548 10000
+average relative error: 0.434056
+1168 1554 12000
+average relative error: 0.433947
+1165 1558 14000
+average relative error: 0.433846
+1174 1552 16000
+average relative error: 0.433729
+1151 1553 18000
+average relative error: 0.433641
+1199 1607 3.61889e-06
+average relative error: 0.433544
+1145 1603 2000
+average relative error: 0.433509
+1114 1559 4000
+average relative error: 0.433474
+1090 1558 6000
+average relative error: 0.43347
+1053 1513 8000
+average relative error: 0.433473
+972 1456 10000
+average relative error: 0.43354
+935 1414 12000
+average relative error: 0.433621
+908 1395 14000
+average relative error: 0.433728
+896 1382 16000
+average relative error: 0.43384
+862 1320 18000
+average relative error: 0.433941
+755 1251 3.65658e-06
+average relative error: 0.43417
+765 1243 2000
+average relative error: 0.434367
+743 1188 4000
+average relative error: 0.434536
+717 1135 6000
+average relative error: 0.434689
+717 1113 8000
+average relative error: 0.434809
+734 1085 10000
+average relative error: 0.434854
+779 1109 12000
+average relative error: 0.434842
+809 1112 14000
+average relative error: 0.434781
+804 1114 16000
+average relative error: 0.43473
+821 1103 18000
+average relative error: 0.434637
+904 1151 3.69428e-06
+average relative error: 0.434472
+861 1163 2000
+average relative error: 0.434387
+937 1216 4000
+average relative error: 0.434248
+1105 1364 6000
+average relative error: 0.434045
+1192 1457 8000
+average relative error: 0.433829
+1216 1476 10000
+average relative error: 0.433606
+1184 1476 12000
+average relative error: 0.433416
+1178 1512 14000
+average relative error: 0.433265
+1171 1507 16000
+average relative error: 0.433117
+1153 1494 18000
+average relative error: 0.432978
+1116 1488 3.73198e-06
+average relative error: 0.432877
+1153 1526 2000
+average relative error: 0.432767
+1129 1551 4000
+average relative error: 0.432707
+1022 1549 6000
+average relative error: 0.432791
+953 1528 8000
+average relative error: 0.432962
+938 1526 10000
+average relative error: 0.433157
+936 1475 12000
+average relative error: 0.4333
+980 1491 14000
+average relative error: 0.433389
+963 1444 16000
+average relative error: 0.433455
+959 1383 18000
+average relative error: 0.433464
+942 1330 3.76967e-06
+average relative error: 0.433442
