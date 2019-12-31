@@ -16,7 +16,7 @@ struct Covering {
 	public:
 	string name;
 
-	Covering(int mem_, int win_) : len(mem_), win(win_) {
+	Covering(int mem_, int win_) : len(mem_ - 1000), win(win_) {
 		perpk = 127.0 / win;
 
 		sketch = new int[len];

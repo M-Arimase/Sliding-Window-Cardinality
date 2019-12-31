@@ -12,7 +12,7 @@ const int TRACE_LEN = 26;
 const int TUPLE_LEN = 13;
 
 const int win = 100 * 1000;
-const int mem = 5   * 1000;
+const int mem = 6   * 1000;
 
 auto *bloomfilter = new BloomFilter<13>(mem);
 map<string, int> strmap;
